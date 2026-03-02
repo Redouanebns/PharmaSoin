@@ -6,3 +6,5 @@ use App\Http\Controllers\ServiceController;
 
 Route::get('/equipes', [EquipeController::class, 'index']);
 Route::get('/services', [ServiceController::class, 'index']);
+
+//

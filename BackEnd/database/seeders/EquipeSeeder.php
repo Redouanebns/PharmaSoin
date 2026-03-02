@@ -44,3 +44,4 @@ class EquipeSeeder extends Seeder
         ]);
     }
 }
+ //
